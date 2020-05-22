@@ -287,3 +287,17 @@ header nav div a {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .btn {
+  background: rgb(3, 80, 92);
+  color:white;
+  width: 100%;
+  padding: 12px;
+  border-radius: 15px;
+  margin: 10px 0;
+  text-align: center;
+  font-size: 1.75rem;
+  font-weight: bold;
+  opacity: 0.6;
+  transition: 2s;
+  cursor: pointer;
+}
